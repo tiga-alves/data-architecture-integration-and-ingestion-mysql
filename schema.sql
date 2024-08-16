@@ -30,7 +30,6 @@ CREATE TABLE IF NOT EXISTS `sapataria`.`clientes` (
   `endereco` VARCHAR(255) NOT NULL,
   `cep` VARCHAR(8) NOT NULL,
   `email` VARCHAR(255) NULL DEFAULT NULL,
-  `telefone` VARCHAR(255) NULL DEFAULT NULL,
   PRIMARY KEY (`id_cliente`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4
