@@ -39,6 +39,7 @@ SELECT * FROM `sapataria`.`clientes`;
 SELECT * FROM `sapataria`.`pedidos`;
 SELECT * FROM `sapataria`.`produtos`;
 SELECT * FROM `sapataria`.`ItensPedido`;
+SELECT * FROM `sapataria`.`telefones_clientes`;
 
 -- -----------------------------------------------------
 -- Total gasto por cada cliente
