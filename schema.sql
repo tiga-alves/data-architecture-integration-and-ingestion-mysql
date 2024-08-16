@@ -36,7 +36,9 @@ ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4
 COLLATE = utf8mb4_0900_ai_ci;
 
--- Criar uma nova tabela para telefones
+-- -----------------------------------------------------
+-- Table `sapataria`.`telefones_clientes`
+-- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `sapataria`.`telefones_clientes` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `id_cliente` INT NOT NULL,
