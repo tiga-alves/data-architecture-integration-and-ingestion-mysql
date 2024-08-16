@@ -81,6 +81,7 @@ CREATE TABLE IF NOT EXISTS `sapataria`.`produtos` (
   `fabricante` VARCHAR(255) NULL DEFAULT NULL,
   `cor` ENUM('Vermelho', 'Azul', 'Verde', 'Preto', 'Branco', 'Amarelo', 'Rosa', 'Cinza') NOT NULL,
   `tamanho` ENUM('PP', 'P', 'M', 'G', 'GG') NOT NULL,
+  `quantidade` INT NOT NULL,
   PRIMARY KEY (`id_produto`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4
