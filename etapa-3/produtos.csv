@@ -1,0 +1,21 @@
+id_produto,codigo,nome,modelo,fabricante,cor,tamanho,quantidade
+1,71c54cf3-43d0-4de1-b652-21a9a05dece6,Tênis Running,RX1000,Nike,Vermelho,M,49
+2,bb237fd6-30cc-4781-8fa0-b2267145eefb,Sapatilha Ballet,BL200,Adidas,Azul,P,82
+3,dd9213b7-bfa3-414e-aac5-e068322081df,Sandália Casual,CS300,Puma,Verde,G,19
+4,1172b3e5-9c89-4989-9e87-5c79abb180a3,Bota Adventure,AD400,Reebok,Preto,GG,60
+5,f6e3eddf-77fe-4d4e-9669-cb424a7b5c45,Chinelo Conforto,CF500,Vans,Branco,PP,70
+6,898d2893-4397-498c-88b3-0651ca239170,Sapato Social,SS600,Converse,Amarelo,M,62
+7,7a8cec0c-a5d2-4de7-8df0-eacce2b2de8a,Mocassim Clássico,MC700,Mizuno,Rosa,P,22
+8,431c452f-6658-463d-881f-a682319c08f5,Coturno Militar,MT800,Asics,Cinza,G,60
+9,2a3ca081-865d-41f5-8ce9-141ab788df23,Slip On Urbano,SU900,New Balance,Vermelho,GG,66
+10,e764be9a-76e1-4c4e-a294-44967d371fff,Tênis Casual,TC100,Fila,Azul,PP,40
+11,937c310b-0c02-4119-8b16-81c959e0a130,Sapatênis Moderno,SM200,Under Armour,Verde,M,17
+12,1038e877-2045-4438-9798-f6b351cea062,Rasteirinha Verão,RV300,Le Coq Sportif,Preto,P,20
+13,076a20ab-0308-4af1-b5cd-248279e2d4bb,Chinelo Slide,CS400,Havaianas,Branco,G,21
+14,874b5027-8112-4458-bc3f-a19255253ec6,Scarpin Elegante,SE500,Melissa,Amarelo,GG,36
+15,2a38f189-c225-4d20-bd8a-860b77b72e36,Bota Montaria,BM600,Timberland,Rosa,PP,25
+16,1803d7fc-5cdf-4613-9db3-6932d4c8793d,Sandália Plataforma,SP700,Schutz,Cinza,M,59
+17,6cb0b0ce-29e5-40f7-bc4f-87a7fe10dbb9,Oxford Retrô,OR800,Arezzo,Vermelho,P,94
+18,8eb1e3ea-12d7-4808-ba0f-b05a201a46cd,Alpargata Estilosa,AE900,Dolce & Gabbana,Azul,G,23
+19,e7332225-373f-4b5f-8ba2-62ef6725d1b2,Tênis Esportivo,TE100,Gucci,Verde,GG,61
+20,34db7649-e259-4f22-bafe-656503e9e827,Mule Trendy,MT200,Prada,Preto,PP,49
