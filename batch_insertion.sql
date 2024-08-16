@@ -42,18 +42,18 @@ VALUES
 -- -----------------------------------------------------
 -- Table `sapataria`.`produtos` -- INSERT
 -- -----------------------------------------------------
-INSERT INTO `sapataria`.`produtos` (codigo, nome, modelo, fabricante, cor, tamanho)
+INSERT INTO `sapataria`.`produtos` (codigo, nome, modelo, fabricante, cor, tamanho, quantidade)
 VALUES
-('A1', 'Tênis Esportivo', 'Running', 'Nike', 'Preto', 'M'),
-('A2', 'Sapatilha', 'Casual', 'Adidas', 'Branco', 'P'),
-('A3', 'Bota', 'Adventure', 'Timberland', 'Vermelho', 'G'),
-('A4', 'Chinelo', 'Praia', 'Havaianas', 'Azul', 'M'),
-('A5', 'Sapato Social', 'Formal', 'Vulcabras', 'Verde', 'G'),
-('A6', 'Sandália', 'Verão', 'Arezzo', 'Rosa', 'M'),
-('A7', 'Tênis Casual', 'Street', 'Puma', 'Cinza', 'G'),
-('A8', 'Mocassim', 'Confort', 'Dockside', 'Amarelo', 'P'),
-('A9', 'Chuteira', 'Futebol', 'Umbro', 'Amarelo', 'M'),
-('A10', 'Bota de Cano Longo', 'Inverno', 'Gucci', 'Cinza', 'G');
+('A1', 'Tênis Esportivo', 'Running', 'Nike', 'Preto', 'M', 50),
+('A2', 'Sapatilha', 'Casual', 'Adidas', 'Branco', 'P', 30),
+('A3', 'Bota', 'Montanha', 'Timberland', 'Marrom', 'G', 20),
+('A4', 'Sandália', 'Verão', 'Havaianas', 'Azul', 'M', 100),
+('A5', 'Sapato Social', 'Formal', 'Vizzano', 'Preto', 'M', 15),
+('A6', 'Chinelo', 'Praia', 'Ipanema', 'Rosa', 'G', 70),
+('A7', 'Mocassim', 'Casual', 'Ferracini', 'Cinza', 'P', 25),
+('A8', 'Tênis Casual', 'Urbano', 'Puma', 'Verde', 'M', 40),
+('A9', 'Sapato Infantil', 'Escolar', 'Bibi', 'Branco', 'P', 60),
+('A10', 'Sandália de Salto', 'Elegante', 'Arezzo', 'Vermelho', 'G', 10);
 
 
 -- -----------------------------------------------------
