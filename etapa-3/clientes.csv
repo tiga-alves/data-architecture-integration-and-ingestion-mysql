@@ -1,0 +1,21 @@
+id_cliente,nome,cpf,endereco,cep,email
+1,Carlos Silva,12345678901,Rua das Flores,12345678,carlos.silva@email.com
+2,Mariana Oliveira,98765432100,Rua dos Pássaros,87654321,mariana.oliveira@email.com
+3,João Pereira,11122233344,Av. Central,11223344,joao.pereira@email.com
+4,Ana Costa,55566677788,Rua do Sol,44332211,ana.costa@email.com
+5,Paulo Souza,19283746509,Rua da Alegria,91234567,paulo.souza@email.com
+6,Fernanda Lima,98712365409,Av. Paulista,76543210,fernanda.lima@email.com
+7,Ricardo Santos,12398745600,Rua das Acácias,34567890,ricardo.santos@email.com
+8,Juliana Alves,78945612377,Rua do Limoeiro,90817263,juliana.alves@email.com
+9,Lucas Ferreira,15975385246,Av. Atlântica,45678912,lucas.ferreira@email.com
+10,Bianca Dias,45678912311,Rua do Campo,21354687,bianca.dias@email.com
+11,Mateus Rocha,35715948622,Rua das Pedras,35468712,mateus.rocha@email.com
+12,Isabela Martins,95175348603,Av. Brasil,56781234,isabela.martins@email.com
+13,Rafael Almeida,25896374185,Rua do Mar,76821345,rafael.almeida@email.com
+14,Patrícia Nunes,36985214752,Av. do Contorno,98723456,patricia.nunes@email.com
+15,Gustavo Mendes,14725836914,Rua do Lago,12398745,gustavo.mendes@email.com
+16,Camila Ramos,12332112345,Av. Independência,01928374,camila.ramos@email.com
+17,Bruno Cardoso,98765432109,Rua das Palmeiras,23456789,bruno.cardoso@email.com
+18,Larissa Teixeira,95135748620,Av. dos Ipês,45678901,larissa.teixeira@email.com
+19,Eduardo Barbosa,74125896330,Rua da Praia,67890123,eduardo.barbosa@email.com
+20,Sara Melo,96385274108,Av. Rio Branco,78901234,sara.melo@email.com
