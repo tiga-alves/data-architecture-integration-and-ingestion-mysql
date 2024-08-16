@@ -1,29 +1,28 @@
 -- -----------------------------------------------------
 -- Table `sapataria`.`clientes` -- INSERT
 -- -----------------------------------------------------
-INSERT INTO `sapataria`.`clientes` (id_cliente, nome, cpf, endereco, cep, email, telefone)
+
+INSERT INTO `sapataria`.`clientes` (id_cliente, nome, cpf, endereco, cep, email)
 VALUES
-('1', 'João Silva', '12345678901', 'Rua A, 123', '12345678', 'joao@gmail.com', '11987654321'),
-('2', 'Maria Oliveira', '23456789012', 'Rua B, 234', '23456789', 'maria@hotmail.com', '21987654321'),
-('3', 'Carlos Souza', '34567890123', 'Rua C, 345', '34567890', 'carlos@yahoo.com', '31987654321'),
-('4', 'Ana Pereira', '45678901234', 'Rua D, 456', '45678901', 'ana@gmail.com', '41987654321'),
-('5', 'Pedro Santos', '56789012345', 'Rua E, 567', '56789012', 'pedro@hotmail.com', '51987654321');
+('1', 'João Silva', '12345678901', 'Rua A, 123', '12345678', 'joao@gmail.com'),
+('2', 'Maria Oliveira', '23456789012', 'Rua B, 234', '23456789', 'maria@hotmail.com'),
+('3', 'Carlos Souza', '34567890123', 'Rua C, 345', '34567890', 'carlos@yahoo.com'),
+('4', 'Ana Pereira', '45678901234', 'Rua D, 456', '45678901', 'ana@gmail.com'),
+('5', 'Pedro Santos', '56789012345', 'Rua E, 567', '56789012', 'pedro@hotmail.com'),
+('6', 'Fernanda Lima', '67890123456', 'Rua F, 678', '67890123', 'fernanda@gmail.com'),
+('7', 'Ricardo Alves', '78901234567', 'Rua G, 789', '78901234', 'ricardo@yahoo.com'),
+('8', 'Paula Costa', '89012345678', 'Rua H, 890', '89012345', 'paula@hotmail.com'),
+('9', 'Bruno Rocha', '90123456789', 'Rua I, 901', '90123456', 'bruno@gmail.com'),
+('10', 'Juliana Mendes', '01234567890', 'Rua J, 012', '01234567', 'juliana@hotmail.com');
 
-
-INSERT INTO `sapataria`.`clientes` (id_cliente, nome, cpf, endereco, cep, email, telefone)
-VALUES
-('1', 'João Silva', '12345678901', 'Rua A, 123', '12345678', 'joao@gmail.com', '11987654321'),
-('2', 'Maria Oliveira', '23456789012', 'Rua B, 234', '23456789', 'maria@hotmail.com', '21987654321'),
-('3', 'Carlos Souza', '34567890123', 'Rua C, 345', '34567890', 'carlos@yahoo.com', '31987654321'),
-('4', 'Ana Pereira', '45678901234', 'Rua D, 456', '45678901', 'ana@gmail.com', '41987654321'),
-('5', 'Pedro Santos', '56789012345', 'Rua E, 567', '56789012', 'pedro@hotmail.com', '51987654321'),
-('6', 'Fernanda Lima', '67890123456', 'Rua F, 678', '67890123', 'fernanda@gmail.com', '61987654321'),
-('7', 'Ricardo Alves', '78901234567', 'Rua G, 789', '78901234', 'ricardo@yahoo.com', '71987654321'),
-('8', 'Paula Costa', '89012345678', 'Rua H, 890', '89012345', 'paula@hotmail.com', '81987654321'),
-('9', 'Bruno Rocha', '90123456789', 'Rua I, 901', '90123456', 'bruno@gmail.com', '91987654321'),
-('10', 'Juliana Mendes', '01234567890', 'Rua J, 012', '01234567', 'juliana@hotmail.com', '10198765432');
-
-
+-- -----------------------------------------------------
+-- Table `sapataria`.`telefones_clientes` -- INSERT
+-- -----------------------------------------------------
+INSERT INTO `sapataria`.`telefones_clientes` (id_cliente, tipo, numero) 
+VALUES 
+(1, 'residencial', '1122334455'),
+(2, 'celular', '9988776655'),
+(3, 'trabalho', '3344556677');
 -- -----------------------------------------------------
 -- Table `sapataria`.`pedidos` -- INSERT
 -- -----------------------------------------------------
